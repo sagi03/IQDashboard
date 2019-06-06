@@ -1,0 +1,320 @@
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\IQDashboard.Core.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\IQDashboard.Core.pdb
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.exe
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.exe.config
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.rsp
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.exe
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.exe.config
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.rsp
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.AppContext.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Console.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Compression.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Claims.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.ValueTuple.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.exe
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.exe.config
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.rsp
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\VBCSCompiler.exe
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Win32.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\netstandard.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.AppContext.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.Concurrent.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.NonGeneric.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.Specialized.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.TypeConverter.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Console.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Data.Common.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Contracts.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Debug.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Process.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.StackTrace.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Tools.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.TraceSource.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Tracing.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Drawing.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Dynamic.Runtime.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.Calendars.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.Extensions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Compression.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Compression.ZipFile.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.Watcher.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.IsolatedStorage.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.MemoryMappedFiles.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Pipes.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Expressions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Parallel.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Queryable.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Http.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.NameResolution.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.NetworkInformation.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Ping.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Requests.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Security.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Sockets.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebHeaderCollection.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebSockets.Client.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebSockets.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ObjectModel.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.Extensions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.Reader.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.ResourceManager.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.Writer.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Extensions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Handles.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.InteropServices.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Numerics.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Formatters.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Json.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Xml.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Claims.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Algorithms.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Csp.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Encoding.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Primitives.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Principal.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.SecureString.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.Encoding.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.Encoding.Extensions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.RegularExpressions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Overlapped.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Tasks.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Tasks.Parallel.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Thread.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.ThreadPool.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Timer.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ValueTuple.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.ReaderWriter.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XDocument.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XmlDocument.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XmlSerializer.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XPath.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XPath.XDocument.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.pdb
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.xml
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csproj.CoreCompileInputs.cache
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csproj.CopyComplete
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.dll
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.pdb
+E:\Project\Organization\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csprojAssemblyReference.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\IQDashboard.Core.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\IQDashboard.Core.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.exe
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.exe.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csc.rsp
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.exe
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.exe.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\csi.rsp
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.AppContext.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Console.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.exe
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.exe.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\vbc.rsp
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\netstandard.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.AppContext.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.Concurrent.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.NonGeneric.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Collections.Specialized.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Console.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Data.Common.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Contracts.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Debug.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Process.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Tools.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Diagnostics.Tracing.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Drawing.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Dynamic.Runtime.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.Calendars.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Globalization.Extensions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Compression.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.IsolatedStorage.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.Pipes.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Expressions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Parallel.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Linq.Queryable.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Http.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.NameResolution.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.NetworkInformation.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Ping.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Requests.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Security.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.Sockets.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebSockets.Client.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Net.WebSockets.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ObjectModel.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.Extensions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Reflection.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.Reader.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.ResourceManager.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Resources.Writer.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Extensions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Handles.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.InteropServices.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Numerics.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Claims.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.Principal.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Security.SecureString.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.Encoding.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Text.RegularExpressions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Overlapped.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Tasks.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Thread.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.ThreadPool.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Threading.Timer.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.ValueTuple.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.ReaderWriter.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XDocument.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XmlDocument.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XmlSerializer.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XPath.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Autofac.xml
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csprojAssemblyReference.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.csproj.CopyComplete
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Libraries\IQDashboard.Core\obj\Debug\IQDashboard.Core.pdb

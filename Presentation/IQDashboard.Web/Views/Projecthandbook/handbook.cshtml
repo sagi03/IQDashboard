@@ -1,0 +1,92 @@
+﻿@model ProjectSummaryModel
+
+<div class="col-md-12">
+    <div class="tile">
+        <h3 class="tile-title">Project Summary</h3>
+        <div class="tile-body">
+            <form id="summaryform" class="login-form" asp-action="Handbook" asp-controller="Projecthandbook" method="post">
+
+                <div class="form-group col-md-3">
+                    <label class="control-label">Client Name</label>
+                    <input asp-for="ClientName" class="form-control" placeholder="Enter client name" autofocus>
+                    <span asp-validation-for="ClientName" class="table-warning"></span>
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Project Name (as per SOW)</label>
+                    @Html.TextBoxFor(m => m.ProjectName, new { @class = "form-control", @placeholder = "Enter project name" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Function</label>
+                    @Html.TextBoxFor(m => m.Function, new { @class = "form-control", @placeholder = "Enter function" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">BU Head</label>
+                    @Html.TextBoxFor(m => m.BUHead, new { @class = "form-control", @placeholder = "Enter BU head" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Delivery Head</label>
+                    @Html.TextBoxFor(m => m.DeliveryHead, new { @class = "form-control", @placeholder = "Enter delivery head" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Account Manager</label>
+                    @Html.TextBoxFor(m => m.AccountManager, new { @class = "form-control", @placeholder = "Enter account manager" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Project Manager</label>
+                    @Html.TextBoxFor(m => m.ProjectManager, new { @class = "form-control", @placeholder = "Enter project manager" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Current SOW#</label>
+                    @Html.TextBoxFor(m => m.CurrentSOW, new { @class = "form-control", @placeholder = "Enter current SOW" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Start Date (as per SOW)</label>
+                    @Html.TextBoxFor(m => m.ProjectStartDate, new { @class = "form-control datepicker", @placeholder = "Enter project start date (as per SOW)" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">End Date (as per SOW)</label>
+                    @Html.TextBoxFor(m => m.ProjectEndDate, new { @class = "form-control datepicker", @placeholder = "Enter project end date (as per SOW)" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Actual Start Date</label>
+                    @Html.TextBoxFor(m => m.ActualStartDate, new { @class = "form-control datepicker", @placeholder = "Enter actual start" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Forecasted End Date</label>
+                    @Html.TextBoxFor(m => m.ForecastedEndDate, new { @class = "form-control datepicker", @placeholder = "Enter forecasted end date" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Project Type</label>
+                    @Html.TextBoxFor(m => m.ProjectType, new { @class = "form-control", @placeholder = "Enter project type" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Pricing Code</label>
+                    @Html.TextBoxFor(m => m.PricingCode, new { @class = "form-control", @placeholder = "Enter pricing code" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Billing Type</label>
+                    @Html.TextBoxFor(m => m.BillingType, new { @class = "form-control", @placeholder = "Enter billing type" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Project Summary</label>
+                    @Html.TextAreaFor(m => m.ProjectSummary, new { @class = "form-control", @placeholder = "Enter project summary" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Project Success Criterias (inputs to KPI's)</label>
+                    @Html.TextAreaFor(m => m.PSC, new { @class = "form-control", @placeholder = "Enter project success criterias" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Assumptions</label>
+                    @Html.TextAreaFor(m => m.Assumptions, new { @class = "form-control", @placeholder = "Enter assumptions" })
+                </div>
+                <div class="form-group col-md-3">
+                    <label class="control-label">Constraints</label>
+                    @Html.TextAreaFor(m => m.Constraints, new { @class = "form-control", @placeholder = "Enter constraints" })
+                </div>
+                <div class="form-group col-md-12" style="text-align:right">
+                    <button type="submit" class="btn btn-primary btnNext">Save and Next</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

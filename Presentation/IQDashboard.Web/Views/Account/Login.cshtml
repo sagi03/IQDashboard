@@ -1,0 +1,27 @@
+﻿@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+<div class="login-box">
+    <form class="login-form" method="post">
+        <h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>SIGN IN</h3>
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="form-group">
+            <label asp-for="UserName" class="control-label">USERNAME</label>
+            <input asp-for="UserName" class="form-control" type="email" placeholder="Email" autofocus>
+            <span asp-validation-for="UserName" class="table-warning"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label">PASSWORD</label>
+            <input asp-for="Password" class="form-control" type="password" placeholder="Password">
+            <span asp-validation-for="Password" class="table-warning"></span>
+        </div>
+        <div class="form-group btn-container">
+            <button class="btn btn-primary btn-block" type="submit"><i class="fa fa-sign-in fa-lg fa-fw"></i>SIGN IN</button>
+        </div>
+    </form>
+</div>

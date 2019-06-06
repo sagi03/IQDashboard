@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewData["Title"] = "ProjectHandbook";
+}
+<div id="page-wrapper">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Project Handbook</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    HandBook
+                </div>
+                <div class="panel-body">
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs" style="font-size:10px !important" id="myTab">
+                        <li class="active">
+                            <a href="#tabs-1" onclick="getContentTab(1,'Handbook')" data-toggle="tab">Project Summary</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-2" onclick="getContentTab(2,'Risk')" data-toggle="tab">Risk</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-3" onclick="getContentTab(3,'ongoingprojectrisk')" data-toggle="tab">Ongoing Project Risks</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-4" onclick="getContentTab(4,'dm')" data-toggle="tab">Delivery Methodology</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-5" onclick="getContentTab(5,'md')" data-toggle="tab">Milestones and Deliverables</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-6" onclick="getContentTab(6,'ts')" data-toggle="tab">Team Structure</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-7" onclick="getContentTab(7,'Governance')" data-toggle="tab">Governance</a>
+                        </li>
+                        <li>
+                            <a href="#tabs-8" onclick="getContentTab(8,'km')" data-toggle="tab">KPIs and Metrics</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade active in" id="tabs-1">
+
+                        </div>
+                        <div class="tab-pane fade" id="tabs-2">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-3">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-4">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-5">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-6">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-7">
+                        </div>
+                        <div class="tab-pane fade" id="tabs-8">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        getContentTab(1, 'Handbook');
+
+    });
+    function getContentTab(index, action) {
+        var targetDiv = "#tabs-" + index;
+        //var nexttargetDiv = "#tabs-" + (index + 1);
+        $.ajax({
+            type: "GET",
+            url: "/Projecthandbook/" + action,
+            contentType: "application/json; charset=utf-8",
+            dataType: "html",
+            success: function (data) {
+                $(targetDiv).html('');
+                $(targetDiv).html(data);
+                $(".datepicker").datepicker();
+                var form = $('#summaryform')
+                    .removeData("validator")
+                    .removeData("unobtrusiveValidation");
+
+                $.validator.unobtrusive.parse(form);
+                //nextprevious();
+            },
+            error: function () {
+                alert("Error occured!!")
+            }
+        });
+    }
+
+    function nextprevious() {
+        $('.btnNext').click(function () {
+            if (ViewData.ModelState.IsValid) {
+                $('.nav-tabs > .active').next('li').find('a').trigger('click');
+            }
+            else { alert('false'); }
+        });
+
+        $('.btnPrevious').click(function () {
+            $('.nav-tabs > .active').prev('li').find('a').trigger('click');
+        });
+    }
+
+    $(document).ready(() => {
+        let url = location.href.replace(/\/$/, "");
+
+        if (location.hash) {
+            const hash = url.split("#");
+            $('#myTab a[href="#' + hash[1] + '"]').tab("show");
+            url = location.href.replace(/\/#/, "#");
+            history.replaceState(null, null, url);
+            setTimeout(() => {
+                $(window).scrollTop(0);
+            }, 400);
+        }
+
+        $('a[data-toggle="tab"]').on("click", function () {
+            let newUrl;
+            const hash = $(this).attr("href");
+            if (hash == "#tabs-1") {
+                newUrl = url.split("#")[0];
+            } else {
+                newUrl = url.split("#")[0] + hash;
+            }
+            newUrl += "/";
+            history.replaceState(null, null, newUrl);
+        });
+    });
+
+</script>

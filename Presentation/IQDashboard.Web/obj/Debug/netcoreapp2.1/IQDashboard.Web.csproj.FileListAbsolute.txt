@@ -1,0 +1,98 @@
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.deps.json
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.runtimeconfig.json
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.runtimeconfig.dev.json
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Views.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Views.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Core.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Framework.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Core.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.dll.config
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Framework.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csprojAssemblyReference.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csproj.CoreCompileInputs.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorAssemblyInfo.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorAssemblyInfo.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.AssemblyInfoInputs.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.AssemblyInfo.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.TagHelpers.input.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.TagHelpers.output.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorCoreGenerate.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\_ViewStart.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\handbook.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\ProjectHandbook.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\Risk.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Menu\Default.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_projectSummary.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorTargetAssemblyInfo.cache
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorTargetAssemblyInfo.cs
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.Views.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csproj.CopyComplete
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.dll
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.pdb
+E:\Project\Organization\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.dll.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.deps.json
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.runtimeconfig.json
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.runtimeconfig.dev.json
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Views.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Views.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Core.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Framework.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Core.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Data.dll.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Service.dll.config
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\bin\Debug\netcoreapp2.1\IQDashboard.Web.Framework.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csprojAssemblyReference.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorAssemblyInfo.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorAssemblyInfo.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.AssemblyInfoInputs.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.AssemblyInfo.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.TagHelpers.input.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.TagHelpers.output.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorCoreGenerate.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\_ViewStart.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\handbook.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\ProjectHandbook.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Projecthandbook\Risk.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Menu\Default.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_projectSummary.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.Views.pdb
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.csproj.CopyComplete
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.dll
+C:\Users\Sanjay.Kumar2\Downloads\New folder\New folder\IQDashboard_New\Presentation\IQDashboard.Web\obj\Debug\netcoreapp2.1\IQDashboard.Web.pdb

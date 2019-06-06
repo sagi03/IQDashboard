@@ -1,0 +1,70 @@
+﻿
+@model TopMenuModel
+@*<ul class="app-menu">
+        <li><a class="app-menu__item active" href="/Home/Index"><i class="app-menu__icon fas fa-fw fa-tachometer-alt"></i><span class="app-menu__label">Dashboard</span></a></li>
+        @foreach (var item in Model.Where(c => c.ParentId == 1))
+        {
+            <a class="app-menu__item" href="@item.NavigationUrl" data-toggle="treeview"><i class="app-menu__icon fa fa-laptop"></i><span class="app-menu__label">@item.NavName</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+            foreach (var product in Model.Where(c => c.NavId == item.ParentId))
+            {
+                <li class="treeview">
+                    <ul class="treeview-menu">
+                        <li><a class="treeview-item" href="@product.NavigationUrl"><i class="icon fa fa-square-o"></i> @product.NavName</a></li>
+                    </ul>
+                </li>
+            }
+        }
+    </ul>*@
+<ul class="sidebar-menu">
+    <li class="treeview">
+        <a href="#">
+            <i class="glyphicon glyphicon-th-large"></i> <span>Dashboard</span>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            <i class="fa fa-list-ul"></i> <span>Cases</span>
+            <span class="pull-right-container">
+                <i class="fa fa-angle-left pull-right"></i>
+            </span>
+        </a>
+        <ul class="treeview-menu">
+            <li>
+                <a href="#">
+                    <i class="fa fa-circle-o"></i> LS
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+
+
+                    <li>
+                        <a href="#">
+                            <i class="fa fa-circle-o"></i> Client
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+
+                            <li>
+                                <a href="#">
+                                    <i class="fa fa-circle-o"></i> Project
+                                    <span class="pull-right-container">
+                                        <i class="fa fa-angle-left pull-right"></i>
+                                    </span>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li>
+                                        <a asp-action="ProjectHandbook" asp-controller="Projecthandbook"><i class="fa fa-circle-o"></i> HandBook</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>

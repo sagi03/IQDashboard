@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{1AB10A60-A407-4E3B-80B4-45D06020FBEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQDashboard.Web", "Presentation\IQDashboard.Web\IQDashboard.Web.csproj", "{FC0D7C65-861C-4737-A0EA-0385943F9312}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{A34B0618-1245-4F90-9093-3F92AA966A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQDashboard.Core", "Libraries\IQDashboard.Core\IQDashboard.Core.csproj", "{B9695441-2DF6-4A01-98C6-F3FA36048CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQDashboard.Web.Framework", "Presentation\IQDashboard.Web.Framework\IQDashboard.Web.Framework.csproj", "{898FD674-E4E0-40D1-9D55-1E92784381E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQDashboard.Service", "Libraries\IQDashboard.Service\IQDashboard.Service.csproj", "{665C0053-F482-45E6-A61F-DEA3C22FBFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQDashboard.Data", "Libraries\IQDashboard.Data\IQDashboard.Data.csproj", "{F447C789-3660-49AC-8099-FD682B5FDA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0D7C65-861C-4737-A0EA-0385943F9312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0D7C65-861C-4737-A0EA-0385943F9312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0D7C65-861C-4737-A0EA-0385943F9312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0D7C65-861C-4737-A0EA-0385943F9312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9695441-2DF6-4A01-98C6-F3FA36048CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9695441-2DF6-4A01-98C6-F3FA36048CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9695441-2DF6-4A01-98C6-F3FA36048CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9695441-2DF6-4A01-98C6-F3FA36048CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898FD674-E4E0-40D1-9D55-1E92784381E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898FD674-E4E0-40D1-9D55-1E92784381E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898FD674-E4E0-40D1-9D55-1E92784381E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898FD674-E4E0-40D1-9D55-1E92784381E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665C0053-F482-45E6-A61F-DEA3C22FBFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665C0053-F482-45E6-A61F-DEA3C22FBFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665C0053-F482-45E6-A61F-DEA3C22FBFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665C0053-F482-45E6-A61F-DEA3C22FBFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F447C789-3660-49AC-8099-FD682B5FDA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F447C789-3660-49AC-8099-FD682B5FDA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F447C789-3660-49AC-8099-FD682B5FDA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F447C789-3660-49AC-8099-FD682B5FDA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC0D7C65-861C-4737-A0EA-0385943F9312} = {1AB10A60-A407-4E3B-80B4-45D06020FBEF}
+		{B9695441-2DF6-4A01-98C6-F3FA36048CB4} = {A34B0618-1245-4F90-9093-3F92AA966A92}
+		{898FD674-E4E0-40D1-9D55-1E92784381E5} = {1AB10A60-A407-4E3B-80B4-45D06020FBEF}
+		{665C0053-F482-45E6-A61F-DEA3C22FBFB2} = {A34B0618-1245-4F90-9093-3F92AA966A92}
+		{F447C789-3660-49AC-8099-FD682B5FDA84} = {A34B0618-1245-4F90-9093-3F92AA966A92}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62C78F3-77D1-49B7-9259-3D5A1EAA24B5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/main_o.css" rel="stylesheet" />
+    <link href="~/css/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <section class="material-half-bg">
+        <div class="cover"></div>
+    </section>
+    <section class="login-content">
+        <div class="logo">
+            <img height="30px" src="~/images/logo.png" />
+        </div>
+        @RenderBody()
+    </section>
+
+    <script src="~/js/jquery.min.js"></script>
+    @RenderSection("Scripts", false)
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        // Login Page Flipbox control
+        $('.login-content [data-toggle="flip"]').click(function () {
+            $('.login-box').toggleClass('flipped');
+            return false;
+        });
+    </script>
+</body>
+</html>
